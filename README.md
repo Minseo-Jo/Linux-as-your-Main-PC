@@ -1,4 +1,4 @@
-# Linux-as-your-Main-PC
+# Linux as your Main PC
 
 
 ### 1. 프로젝트 소개
